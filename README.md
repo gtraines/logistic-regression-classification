@@ -1,5 +1,5 @@
 
-## Logistic Regression with Stochastic Gradient Descent
+## Logistic Regression with Gradient Descent
 ## Python Implementation
 
 ### Graham Traines
