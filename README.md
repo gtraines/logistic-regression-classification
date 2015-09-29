@@ -1,6 +1,8 @@
-# Graham Traines
-# Logistic Regression with Stochastic Gradient Descent
-# Python Implementation
+
+## Logistic Regression with Stochastic Gradient Descent
+## Python Implementation
+
+### Graham Traines
 
 PREREQUISITES:
 To get this program to work, you must run the script file 
